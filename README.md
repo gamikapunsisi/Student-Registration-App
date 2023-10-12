@@ -2,5 +2,5 @@
 Student Registration using Android Studio
 
 
-![image!](https://github.com/gamikapunsisi/Simple-Calculator-App-using-Android/blob/main/1234.png)
+![image!](https://github.com/gamikapunsisi/Student-Registration-App/blob/main/12345.png)
 
